@@ -1,0 +1,106 @@
+{
+  "pilares": [
+    {
+      "id": 1,
+      "nombre": "Shinobu Kocho",
+      "pilar": "Pilar del Insecto"
+    },
+    {
+      "id": 3,
+      "nombre": "Mitsuri Kanroji",
+      "pilar": "Pilar del Amor"
+    },
+    {
+      "id": 5,
+      "nombre": "Kyojuru Rengoku",
+      "pilar": "Pilar de la Llama"
+    },
+    {
+      "id": 6,
+      "nombre": "Giyu Tomioka",
+      "pilar": "Pilar del Agua"
+    },
+    {
+      "id": 7,
+      "nombre": "Obanai Iguro",
+      "pilar": "Pilar de la Serpiente"
+    },
+    {
+      "id": 8,
+      "nombre": "Sanemi Shinazugawa",
+      "pilar": "Pilar del Viento,"
+    },
+    {
+      "id": 9,
+      "nombre": "Gyomei Himejima",
+      "pilar": "Pilar de la Roca,"
+    },
+    {
+      "nombre": "Tanjiro Kamado",
+      "pilar": "Pilar del Agua",
+      "id": 10
+    }
+  ],
+  "lunas": [
+    {
+      "id": 2,
+      "nombre": "Doma ",
+      "clasificacion": "Luna Superior Dos"
+    },
+    {
+      "id": 3,
+      "nombre": "Akaza",
+      "clasificacion": "Luna Superior Tres"
+    },
+    {
+      "id": 4,
+      "nombre": "Nakime",
+      "clasificacion": "Luna Superior Cuatro"
+    },
+    {
+      "id": 5,
+      "nombre": "Gyokko",
+      "clasificacion": "Luna Superior Cinco"
+    },
+    {
+      "id": 6,
+      "nombre": "Kaigaku",
+      "clasificacion": "Luna Superior Seis"
+    },
+    {
+      "id": 7,
+      "nombre": "Enmu",
+      "clasificacion": "Luna Inferior Uno"
+    },
+    {
+      "id": 8,
+      "nombre": "Rokuro",
+      "clasificacion": "Luna Inferior Dos"
+    },
+    {
+      "id": 9,
+      "nombre": "Wakuraba",
+      "clasificacion": "Luna Inferior Tres"
+    },
+    {
+      "id": 10,
+      "nombre": "Mukago",
+      "clasificacion": "Luna Inferior Cuatro"
+    },
+    {
+      "id": 11,
+      "nombre": "Rui",
+      "clasificacion": "Luna Inferior Cinco"
+    },
+    {
+      "id": 12,
+      "nombre": "Kamanue",
+      "clasificacion": "Luna Inferior Seis"
+    },
+    {
+      "id": 13,
+      "nombre": "Muzan Kibutsuji",
+      "clasificacion": "Amo y señor"
+    }
+  ]
+}
